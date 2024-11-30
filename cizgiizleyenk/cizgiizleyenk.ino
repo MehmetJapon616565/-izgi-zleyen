@@ -22,7 +22,9 @@ const uint8_t SensorCount = 8;
 unsigned int sensorValues[SensorCount];
 
 
-
+void test(){
+  
+}
 void setup()
 {
   // configure the sensors
